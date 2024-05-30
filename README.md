@@ -1,7 +1,7 @@
 # Hello there! 👋 I'm Tiffany Mangelli
 
 ## 🚀 About Me
-I am a **Tech-Savvy Professional** with over **5 years** of experience in **Business Development**, **Partnerships**m and **Strategy**. Currently, I'm diving deep into the world of **Business Analytics** and **Big Data** through my Master's studies and I also hold an MBA. 
+I am a **Tech-Savvy Professional** with over **5 years** of experience in **Business Development**, **Partnerships** and **Strategy**. I have delved deep into the world of Business Analytics and Big Data through my Master's studies, and I also hold an MBA. 
 
 
 ## 🛠 Skills & Tools
